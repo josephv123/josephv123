@@ -10,4 +10,4 @@ Python • Kotlin • Java • C • SQL • Flask • Git/GitHub • Linux
 - **Stack Calculator** – Implemented expression parser with efficient error handling.  
 
 ## 📫 Contact
-[LinkedIn](https://www.linkedin.com/in/joseph-vidal-2916a8249/)) • [Email](mailto:josephv4000@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/joseph-vidal-2916a8249/) • [Email](mailto:josephv4000@gmail.com)  
